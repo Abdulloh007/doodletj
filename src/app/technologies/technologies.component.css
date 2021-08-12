@@ -1,0 +1,12 @@
+section{
+  padding-top: calc(80px + 50*(100vw - 375px)/1525);
+}
+.technologies-frontend-section .title{
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-bottom: calc(20px + 10*(100vw - 375px)/1525);
+}
+.technologies-frontend-section .subtitle {
+  width: 50%;
+  margin: 0;
+}
